@@ -18,6 +18,11 @@ import numpy
 # teste local B1 6
 
 # teste B1 voltou para master
+<<<<<<< HEAD
 
 # teste master 10 remote
 # teste master 11 local
+=======
+# teste local inicio B2
+# teste local B2 2
+>>>>>>> 1d15a42 (teste B2 2)
