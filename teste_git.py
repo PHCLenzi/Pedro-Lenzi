@@ -20,3 +20,4 @@ import numpy
 # teste B1 voltou para master
 
 # teste master 10 remote
+# teste master 11 local
