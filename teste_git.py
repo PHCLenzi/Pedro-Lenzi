@@ -23,3 +23,4 @@ import numpy
 # teste master 11 local
 # teste local inicio B2
 # teste local B2 2
+# teste local master 12
