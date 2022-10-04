@@ -18,3 +18,5 @@ import numpy
 # teste local B1 6
 
 # teste B1 voltou para master
+
+# teste master 10 remote
